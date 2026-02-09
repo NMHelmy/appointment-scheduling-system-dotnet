@@ -1,5 +1,4 @@
 # Appointment Scheduling System
-- #### Just the Backend using .NET
 ## Overview
 This is a secure, role-based appointment scheduling API built with .NET. It features JWT authentication, role-based authorization, and comprehensive appointment management capabilities. 
 The system is designed for healthcare providers, salons, or any business requiring appointment scheduling with different access levels for clients and admins.
